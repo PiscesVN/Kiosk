@@ -1,0 +1,30 @@
+.box-blue{
+	position: absolute;
+	width: 1028px;
+	height: 1359px;
+	left: 26px;
+	top: 281px;
+	background: #5794F0;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.box-white{
+	margin-top: 88px;
+	height: 1246px;
+	left: 45px;
+	top: 369px;
+	background: rgba(255, 251, 251, 0.63);
+	border-radius: 15px;
+}
+.box-white p{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 53px;	
+	color: #2E1A1A;
+}
+.box-white .logo{
+	margin-top: 20px;
+}

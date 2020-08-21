@@ -1,0 +1,79 @@
+body{
+	background-image: url(../../images/bg-open-app.jpg);
+	position: relative;
+}
+
+.box-white{
+	position: absolute;
+	width: 989px;
+	height: 1246px;
+	left: 45px;
+	top: 360px;
+	background: rgba(255, 251, 251, 0.63);
+	border-radius: 15px;
+}
+.box-white p{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 53px;	
+	color: #2E1A1A;
+}
+.box-white p b{
+	color: red;
+}
+.box-white .input{
+	margin-top: 90px;
+	padding: 0 73px;
+}
+.box-white .input input{
+	height: 123px;
+	border-radius: 15px;
+	font-size: 56px;
+}
+.box-white .input input::placeholder{
+	color: rgba(62, 29, 29, 0.7);
+	font-size: 56px;
+	margin-top: 10px;
+}
+.box-white .input button{
+	background: #37AD23;
+	width: 250px;
+	font-size: 43px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.box-white .input button p{
+	color: white;
+	margin: auto;
+}
+.box-white .input-group{
+	margin-top: 35px;
+}
+
+.box-white .input .title-choose{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 56px;
+	color: #37AD23;
+	margin-top: 56px;
+	text-align: center;	
+}
+.box-white .input hr{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-bottom: 0.5px solid #000000;
+}
+.box-white .input button.btn-2{
+	background-color: white;
+	color: black;
+	height: 123px;
+	border: 1px solid rgba(0, 0, 0, 0.65);
+	box-sizing: border-box;
+	border-radius: 12px;
+}
+.box-white .input button.btn-bottom{
+	margin-top: 24px;
+}
